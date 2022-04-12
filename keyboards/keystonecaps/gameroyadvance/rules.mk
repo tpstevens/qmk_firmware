@@ -2,8 +2,8 @@
 MCU = atmega32u4
 
 # Bootloader selection
-# BOOTLOADER = caterina # For Pro Micro
-BOOTLOADER = qmk-dfu # For Elite-C
+BOOTLOADER = caterina # For Pro Micro
+# BOOTLOADER = qmk-dfu # For Elite-C
 
 # Processor frequency.
 #     This will define a symbol, F_CPU, in all source code files equal to the
